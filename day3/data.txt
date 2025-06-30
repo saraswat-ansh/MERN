@@ -1,0 +1,2 @@
+Hello from Node.js!
+This will overwrite the file.
